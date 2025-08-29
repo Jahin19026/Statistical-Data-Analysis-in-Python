@@ -1,4 +1,4 @@
-# **README: eCommerce Customer Data Analysis**
+# **eCommerce Customer Data Analysis**
 
 ## **Project Overview**
 
