@@ -65,20 +65,6 @@ This project analyzes an eCommerce customer dataset to understand customer behav
 
 ---
 
-## **Usage Instructions**
-
-1. Ensure Python 3.x is installed
-2. Install required libraries using pip:
-
-```bash
-pip install pandas numpy matplotlib seaborn scipy statsmodels
-```
-
-3. Place the dataset `ecommerce_data.csv` in the project directory
-4. Run the Python scripts sequentially to perform analysis and generate plots
-5. Review the results, statistical tests, and regression outputs for interpretation
-
----
 
 ## **Deliverables**
 
@@ -92,4 +78,4 @@ pip install pandas numpy matplotlib seaborn scipy statsmodels
 
 
 
-If you want, I can also **make a shorter “GitHub-ready” version** that’s concise but still professional, suitable for your repository. Do you want me to do that?
+
